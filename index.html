@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Премьеры 2026</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="header">
+    <h1>Премьеры 2026</h1>
+  </header>
+
+  <main class="container">
+
+    <p id="loader" class="message">Загрузка данных…</p>
+
+    <div id="error" class="message message--error" hidden>
+      <p>Не удалось загрузить данные. Проверьте, запущен ли сервер.</p>
+      <button id="retry" class="btn">Повторить</button>
+    </div>
+
+    <p id="empty" class="message" hidden>Фильмов пока нет.</p>
+
+    <div id="cards" class="cards" hidden></div>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

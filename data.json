@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Мстители: Судный день",
+    "titleEn": "Avengers: Doomsday",
+    "year": 2026,
+    "genre": "Фантастика",
+    "director": "Энтони и Джо Руссо",
+    "duration": 165,
+    "released": false
+  },
+  {
+    "id": 2,
+    "title": "Дюна: Часть третья",
+    "titleEn": "Dune: Part Three",
+    "year": 2026,
+    "genre": "Фантастика",
+    "director": "Дени Вильнёв",
+    "duration": 160,
+    "released": false
+  },
+  {
+    "id": 3,
+    "title": "История игрушек 5",
+    "titleEn": "Toy Story 5",
+    "year": 2026,
+    "genre": "Анимация",
+    "director": "Эндрю Стэнтон",
+    "duration": 102,
+    "released": true
+  },
+  {
+    "id": 4,
+    "title": "Человек-паук: Новый день",
+    "titleEn": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "genre": "Боевик",
+    "director": "Дестин Дэниел Креттон",
+    "duration": 150,
+    "released": true
+  },
+  {
+    "id": 5,
+    "title": "Супергёрл",
+    "titleEn": "Supergirl",
+    "year": 2026,
+    "genre": "Боевик",
+    "director": "Крэйг Гиллеспи",
+    "duration": 110,
+    "released": true
+  },
+  {
+    "id": 6,
+    "title": "Голодные игры: Рассвет жатвы",
+    "titleEn": "The Hunger Games: Sunrise on the Reaping",
+    "year": 2026,
+    "genre": "Фантастика",
+    "director": "Фрэнсис Лоуренс",
+    "duration": 150,
+    "released": false
+  },
+  {
+    "title": "Аватар 3",
+    "titleEn": "Avatar 3",
+    "year": 2026,
+    "genre": "Фантастика",
+    "director": "Джеймс Кэмерон",
+    "duration": 190,
+    "released": true,
+    "id": 7
+  }
+]
